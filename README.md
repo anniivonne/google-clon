@@ -22,7 +22,7 @@ Aprender a utilizar los lenguajes y las etiquetas principales de CSS y HTML.
 
 ## Mira aquí mi proyecto:
 [Clonación de Google](https://google-clon-three.vercel.app/)
-
+![Captura Clon Google](Cap-GoogleClon.png)
 
 
 ## 🔗 Más información
